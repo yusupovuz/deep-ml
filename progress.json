@@ -1,0 +1,57 @@
+{
+  "generated_at": "2026-10-21T13:17:41.021Z",
+  "items": {
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-05-25T06:08:52.446Z",
+      "last_pushed_at": "2026-05-25T06:08:52.446Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:356": {
+      "kind": "problem",
+      "id": "356",
+      "title": "Label Encoding for Ordinal Variables",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/356",
+      "path": "problems/0356-label-encoding-for-ordinal-variables",
+      "first_solved_at": "2026-05-25T06:17:22.291Z",
+      "last_pushed_at": "2026-05-25T06:17:22.291Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-05-25T06:33:48.943Z",
+      "last_pushed_at": "2026-05-25T06:33:48.943Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-05-25T09:21:02.332Z",
+      "last_pushed_at": "2026-05-25T09:21:02.332Z",
+      "language": "python",
+      "lines": 20
+    }
+  }
+}
